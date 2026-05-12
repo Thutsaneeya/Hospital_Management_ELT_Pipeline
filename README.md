@@ -23,10 +23,8 @@ Source: [Hospital Management Dataset](https://www.kaggle.com/datasets/kanakbaghe
 [Hospital Financial Summary Report](data_studio_dashboard/Hospital_Financial_Summary_Report.pdf)
 ![Report Dashboard](assets/report_dashboard.png)
 ## Project Structure
-📁 hospital_management
-    📁 data
-        - Contains the Raw Dataset
-    📁 data_studio_dashboard
-        - Contains the Final Dashboard Report (PDF)
-    📁 sql_script
-        - Contains the BigQuery SQL scripts
+📁 Hospital_Management_ELT_Pipeline/
+- 📁 data/ →  Raw Dataset
+- 📁 data_studio_dashboard/ →  Final Dashboard Report (PDF)
+- 📁 sql_script/ →  BigQuery SQL scripts
+- README.md
