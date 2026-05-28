@@ -17,7 +17,7 @@ Source: [Hospital Management Dataset](https://www.kaggle.com/datasets/kanakbaghe
 ![Architecture Diagram](assets/architecture_diagram.png)
 - **Data Ingestion:** Uploaded raw CSV files via Bash script (Cloud Shell) to the Landing Zone (BigQuery Sandbox)
 - **ELT Pipeline:** Developed an ELT pipeline using SQL Transformations to process data within the Data Warehouse
-- **Data Modeling:** Created a Logical Layer (Views) to prepare clean data for analytics
+- **SQL Views:** Created a Logical Layer (Views) to prepare clean data for analytics
 - **Visualization:** Delivered insights through an interactive dashboard in Data Studio
 ## Data Studio Dashboard
 [Hospital Financial Summary Report](data_studio_dashboard/Hospital_Financial_Summary_Report.pdf)
